@@ -1,0 +1,53 @@
+.header{
+    height: 400px;
+    /* width: 200px; */
+    /* background-color: bisque; */
+    background-image: url('a4.png');
+    background-repeat: no-repeat; 
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    background-size: cover;
+    /* background-size: contain; */
+    /* background-size: 200px; */
+    /* background-size: 400px; */
+}
+
+h3{
+    text-decoration: underline;
+    font-size: 26px;
+}
+
+/* to hide a div from and remove from position */
+/* .second{
+    display: none;
+} */
+
+/* to invisible a div and stay in position   */
+/* .second{
+    visibility: hidden;
+} */
+
+.blog{
+    border: 5px solid tomato;
+    margin: 40px;
+    /* box-shadow: 10px 10px;  */
+    /* box-shadow: 10px 10px 10px; */
+    box-shadow: 10px 10px 10px blueviolet;
+    /* we should use margin property to display box-shadow better */
+}
+
+.dolor{
+    border: 2px solid green;
+    margin: 30px;
+    /* display: inline; */
+    display: block;
+    /* display: inline-block; */
+}
+
+.architecto{
+    border: 2px solid red;
+    height: 60px;
+    /* display: inline; */
+    /* display: block; */
+    display: inline-block;
+}
